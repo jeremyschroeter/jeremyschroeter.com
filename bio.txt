@@ -6,4 +6,4 @@ design. My work during that time fostered in me, a passion and interest in machi
 as a scientific tool. Currently I am at the Steinmetz lab at UW, where I work on computational
 models of perceptual decision making. I am interested in the neural basis of
 perception, cognition, and action, and how brains manipulate internal representations of
-external variables to enable effective engagement with their environment.
+to enable effective engagement with their environment.
