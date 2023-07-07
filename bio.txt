@@ -2,8 +2,8 @@ Hi, I'm Jeremy. I was born in New York City but grew up in Seattle, Washington.
 In 2023, I completed my undergraduate studies and received a BS in neuroscience
 from the University of Washington. During undergrad, I conducted research at the
 David Baker Lab on deep generative models for protein structure prediction and
-design. My work during that time fostered a passion and interest in machine learning
-as a scientific tool. Currently, I am at the Steinmetz lab, where I work on computational
+design. My work during that time fostered in me, a passion and interest in machine learning
+as a scientific tool. Currently I am at the Steinmetz lab at UW, where I work on computational
 models of perceptual decision making. I am interested in the neural basis of
-perception, cognition, and action, and how brains manipulate representations of
-this triad to enable effective engagement with the world.
+perception, cognition, and action, and how brains manipulate internal representations of
+external variables to enable effective engagement with their environment.
